@@ -1,4 +1,4 @@
-\l conn.q
+\l conn.q123
 .conn.open `localhost:5000; /connect to tickerplant 
 syms:`MSFT.O`IBM.N`GS.N`BA.N`VOD.L; /stocks
 prices:syms!45.15 191.10 178.50 128.04 341.30; /starting prices 

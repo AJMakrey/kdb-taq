@@ -1,4 +1,4 @@
-// ** tickNotes **
+// ** tickNotes ***
 /
  globals used
  .u.w - dictionary of tables->(handle;syms)

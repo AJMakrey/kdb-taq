@@ -1,4 +1,4 @@
-/q tick/r.q [host]:port[:usr:pwd] [host]:port[:usr:pwd]
+/q tick/r.q [host]:port[:usr:pwd] [host]:port[:usr:pwd]abc
 /2008.09.09 .k ->.q
 \c 20 200
 \l util.q
