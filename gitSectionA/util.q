@@ -3,7 +3,7 @@
 //         Overwrite of Logging Library             //
 //                                                  //
 //////////////////////////////////////////////////////
-.log.initialised:0b;
+.log.initialised:0b;123
 .log.info:{.log.conn@"\n","Info Log @ ",string[.z.Z]," ",("[",";" sv string value .Q.w[]),"]: ",x;};
 .log.error:{.log.conn@"\n","Error Log @ ",string[.z.Z]," ",("[",";" sv string value .Q.w[]),"]: ",x;};
 .log.init:{
